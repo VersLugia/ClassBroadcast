@@ -3,7 +3,7 @@ Scp Secret Laboratory NW-Api/Exiled plugin, allows you to Send configurable mess
 V1.0 original plugin by An4r3w
 
 
-#Config
+# Config
 ```yml
 is_enabled: true
 # Activation of debug mode
