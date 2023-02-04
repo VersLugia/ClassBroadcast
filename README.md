@@ -11,7 +11,7 @@ is_enabled: true
 # Activation of debug mode
 debug: false
 # Available broadcast types: Broadcast, Hint, Window
-spawn_info_type: Window
+spawn_info_type: Hint
 spawn_info_time: 7
 spawn_info_messages:
   FacilityGuard: <color=#727472>You will die in 5 minutes</color>
