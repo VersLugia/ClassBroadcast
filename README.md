@@ -1,6 +1,6 @@
 # ClassBroadcast
-Scp Secret Laboratory NW-Api/Exiled plugin, allows you to Send configurable messages to players at spawn.
 V1.0 original plugin by An4r3w
+Scp Secret Laboratory NW-Api/Exiled plugin, allows you to Send configurable messages to players at spawn.
 
 
 # Config
